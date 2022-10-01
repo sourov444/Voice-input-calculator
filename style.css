@@ -3,9 +3,9 @@ body{
 	background-color: black;
 }
 #container{
-	width: 1000px;
-	height: 550px;
-	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(bgImg.jpg);
+	width: 19200px;
+	height: 1020px;
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(bgImg.png);
 	margin: 20px auto;	
 }
 #calculator{
